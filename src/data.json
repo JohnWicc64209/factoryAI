@@ -1,0 +1,304 @@
+{
+  "executiveLeadership": [
+    {
+      "subheading": "Chief Executive Officer",
+      "heading": "Abdul Rehman",
+      "id": "executive-leadership",
+      "paragraph": "Abdul Rehman is an experienced CEO with a history of leading tech companies to success.",
+      "seeMoreLink": "/read-more-john-doe",
+      "imageSrc": "/assets/images/team/people-1.jpg",
+      "flexDirection": true
+    },
+    {
+      "subheading": "Chief Technology Officer",
+      "heading": "Jane Smith",
+      "id": "executive-leadership",
+      "paragraph": "Jane Smith, the CTO, has extensive experience in software architecture and technology strategy.",
+      "seeMoreLink": "/read-more-jane-smith",
+      "imageSrc": "/assets/images/team/people-2.jpg",
+      "flexDirection": false
+    },
+    {
+      "subheading": "Chief Operating Officer",
+      "heading": "Michael Johnson",
+      "id": "executive-leadership",
+      "paragraph": "Michael Johnson, the COO, has a background in operations and process optimization.",
+      "seeMoreLink": "/read-more-michael-johnson",
+      "imageSrc": "/assets/images/team/people-3.jpg",
+      "flexDirection": true
+    },
+    {
+      "subheading": "Chief Financial Officer",
+      "heading": "Emily Davis",
+      "id": "executive-leadership",
+      "paragraph": "Emily Davis, the CFO, has expertise in financial planning and analysis.",
+      "seeMoreLink": "/read-more-emily-davis",
+      "imageSrc": "/assets/images/team/people-1.jpg",
+      "flexDirection": false
+    },
+    {
+      "subheading": "Head of Sales and Marketing",
+      "heading": "William Brown",
+      "id": "executive-leadership",
+      "paragraph": "William Brown, the Head of Sales and Marketing, has a proven track record in driving growth.",
+      "seeMoreLink": "/read-more-william-brown",
+      "imageSrc": "/assets/images/team/people-2.jpg",
+      "flexDirection": true
+    }
+  ],
+  "salesDepartment": [
+    {
+      "subheading": "Sales Director",
+      "heading": "Anna Wilson",
+      "id": "sales-department",
+      "paragraph": "Anna Wilson is the Sales Director with over a decade of experience in tech sales.",
+      "seeMoreLink": "/read-more-anna-wilson",
+      "imageSrc": "/assets/images/team/people-3.jpg",
+      "flexDirection": false
+    },
+    {
+      "subheading": "Sales Manager",
+      "heading": "Chris Taylor",
+      "id": "sales-department",
+      "paragraph": "Chris Taylor is the Sales Manager with a focus on client relations.",
+      "seeMoreLink": "/read-more-chris-taylor",
+      "imageSrc": "/assets/images/team/people-1.jpg",
+      "flexDirection": true
+    },
+    {
+      "subheading": "Sales Representative",
+      "heading": "Jessica Martinez",
+      "id": "sales-department",
+      "paragraph": "Jessica Martinez is a Sales Representative dedicated to exceeding targets.",
+      "seeMoreLink": "/read-more-jessica-martinez",
+      "imageSrc": "/assets/images/team/people-2.jpg",
+      "flexDirection": false
+    }
+  ],
+  "marketingTeam": [
+    {
+      "subheading": "Digital Marketing Specialist",
+      "heading": "Kevin White",
+      "id": "marketing-team",
+      "paragraph": "Kevin White is a Digital Marketing Specialist skilled in SEO and social media.",
+      "seeMoreLink": "/read-more-kevin-white",
+      "imageSrc": "/assets/images/team/people-3.jpg",
+      "flexDirection": true
+    },
+    {
+      "subheading": "Content Writer",
+      "heading": "Sarah Thompson",
+      "id": "marketing-team",
+      "paragraph": "Sarah Thompson is a Content Writer with a knack for engaging copy.",
+      "seeMoreLink": "/read-more-sarah-thompson",
+      "imageSrc": "/assets/images/team/people-1.jpg",
+      "flexDirection": false
+    },
+    {
+      "subheading": "SEO Expert",
+      "heading": "Daniel Harris",
+      "id": "marketing-team",
+      "paragraph": "Daniel Harris is an SEO Expert with a focus on organic growth.",
+      "seeMoreLink": "/read-more-daniel-harris",
+      "imageSrc": "/assets/images/team/people-2.jpg",
+      "flexDirection": true
+    }
+  ],
+  "dataDepartment": [
+    {
+      "subheading": "Data Director",
+      "heading": "Laura Walker",
+      "id": "data-department",
+      "paragraph": "Laura Walker is the Data Director with a passion for data-driven decision making.",
+      "seeMoreLink": "/read-more-laura-walker",
+      "imageSrc": "/assets/images/team/people-3.jpg",
+      "flexDirection": false
+    },
+    {
+      "subheading": "Data Scientist",
+      "heading": "Brian Lewis",
+      "id": "data-department",
+      "paragraph": "Brian Lewis is a Data Scientist with a background in machine learning.",
+      "seeMoreLink": "/read-more-brian-lewis",
+      "imageSrc": "/assets/images/team/people-1.jpg",
+      "flexDirection": true
+    },
+    {
+      "subheading": "Data Analyst",
+      "heading": "Megan Robinson",
+      "id": "data-department",
+      "paragraph": "Megan Robinson is a Data Analyst skilled in statistical analysis.",
+      "seeMoreLink": "/read-more-megan-robinson",
+      "imageSrc": "/assets/images/team/people-2.jpg",
+      "flexDirection": false
+    },
+    {
+      "subheading": "Data Engineer",
+      "heading": "Anthony Lee",
+      "id": "data-department",
+      "paragraph": "Anthony Lee is a Data Engineer with experience in big data technologies.",
+      "seeMoreLink": "/read-more-anthony-lee",
+      "imageSrc": "/assets/images/team/people-3.jpg",
+      "flexDirection": true
+    }
+  ],
+  "developmentDepartment": [
+    {
+      "subheading": "Development Director",
+      "heading": "Olivia Hall",
+      "id": "development-department",
+      "paragraph": "Olivia Hall is the Development Director with a strong background in software engineering.",
+      "seeMoreLink": "/read-more-olivia-hall",
+      "imageSrc": "/assets/images/team/people-1.jpg",
+      "flexDirection": false
+    },
+    {
+      "subheading": "JavaScript Team Lead",
+      "heading": "David King",
+      "id": "development-department",
+      "paragraph": "David King is the JavaScript Team Lead with expertise in JavaScript frameworks.",
+      "seeMoreLink": "/read-more-david-king",
+      "imageSrc": "/assets/images/team/people-2.jpg",
+      "flexDirection": true
+    },
+    {
+      "subheading": "Frontend Developer",
+      "heading": "Sophia Young",
+      "id": "development-department",
+      "paragraph": "Sophia Young is a Frontend Developer specializing in React.",
+      "seeMoreLink": "/read-more-sophia-young",
+      "imageSrc": "/assets/images/team/people-3.jpg",
+      "flexDirection": false
+    },
+    {
+      "subheading": "Backend Developer",
+      "heading": "James Hernandez",
+      "id": "development-department",
+      "paragraph": "James Hernandez is a Backend Developer proficient in Node.js.",
+      "seeMoreLink": "/read-more-james-hernandez",
+      "imageSrc": "/assets/images/team/people-1.jpg",
+      "flexDirection": true
+    },
+    {
+      "subheading": "Full-Stack Developer",
+      "heading": "Victoria Allen",
+      "id": "development-department",
+      "paragraph": "Victoria Allen is a Full-Stack Developer with experience in MERN stack.",
+      "seeMoreLink": "/read-more-victoria-allen",
+      "imageSrc": "/assets/images/team/people-2.jpg",
+      "flexDirection": false
+    },
+    {
+      "subheading": "Mobile Developer",
+      "heading": "Isabella Scott",
+      "id": "development-department",
+      "paragraph": "Isabella Scott is a Mobile Developer focused on React Native.",
+      "seeMoreLink": "/read-more-isabella-scott",
+      "imageSrc": "/assets/images/team/people-3.jpg",
+      "flexDirection": true
+    },
+    {
+      "subheading": "QA Engineer",
+      "heading": "Andrew Lopez",
+      "id": "development-department",
+      "paragraph": "Andrew Lopez is a QA Engineer with a keen eye for detail.",
+      "seeMoreLink": "/read-more-andrew-lopez",
+      "imageSrc": "/assets/images/team/people-1.jpg",
+      "flexDirection": false
+    },
+    {
+      "subheading": "Python Team Lead",
+      "heading": "Mason Hill",
+      "id": "development-department",
+      "paragraph": "Mason Hill is the Python Team Lead with extensive Python development experience.",
+      "seeMoreLink": "/read-more-mason-hill",
+      "imageSrc": "/assets/images/team/people-2.jpg",
+      "flexDirection": true
+    },
+    {
+      "subheading": "Backend Developer",
+      "heading": "Charlotte Green",
+      "id": "development-department",
+      "paragraph": "Charlotte Green is a Backend Developer specializing in Django.",
+      "seeMoreLink": "/read-more-charlotte-green",
+      "imageSrc": "/assets/images/team/people-3.jpg",
+      "flexDirection": false
+    },
+    {
+      "subheading": "AI/ML Engineer",
+      "heading": "Liam Adams",
+      "id": "development-department",
+      "paragraph": "Liam Adams is an AI/ML Engineer with a focus on deep learning.",
+      "seeMoreLink": "/read-more-liam-adams",
+      "imageSrc": "/assets/images/team/people-1.jpg",
+      "flexDirection": true
+    },
+    {
+      "subheading": "Data Engineer",
+      "heading": "Abigail Nelson",
+      "id": "development-department",
+      "paragraph": "Abigail Nelson is a Data Engineer skilled in data pipelines.",
+      "seeMoreLink": "/read-more-abigail-nelson",
+      "imageSrc": "/assets/images/team/people-2.jpg",
+      "flexDirection": false
+    }
+  ],
+  "hrDepartment": [
+    {
+      "subheading": "HR Manager",
+      "heading": "Emily Clark",
+      "id": "hr-department",
+      "paragraph": "Emily Clark is the HR Manager with a focus on employee engagement and recruitment.",
+      "seeMoreLink": "/read-more-emily-clark",
+      "imageSrc": "/assets/images/team/people-1.jpg",
+      "flexDirection": true
+    },
+    {
+      "subheading": "Recruitment Specialist",
+      "heading": "Michael Turner",
+      "id": "hr-department",
+      "paragraph": "Michael Turner is a Recruitment Specialist with a knack for finding top talent.",
+      "seeMoreLink": "/read-more-michael-turner",
+      "imageSrc": "/assets/images/team/people-2.jpg",
+      "flexDirection": false
+    },
+    {
+      "subheading": "HR Assistant",
+      "heading": "Sophia Garcia",
+      "id": "hr-department",
+      "paragraph": "Sophia Garcia is an HR Assistant supporting daily HR operations.",
+      "seeMoreLink": "/read-more-sophia-garcia",
+      "imageSrc": "/assets/images/team/people-3.jpg",
+      "flexDirection": true
+    }
+  ],
+  "itDepartment": [
+    {
+      "subheading": "IT Manager",
+      "heading": "Robert Mitchell",
+      "id": "it-department",
+      "paragraph": "Robert Mitchell is the IT Manager overseeing IT infrastructure and security.",
+      "seeMoreLink": "/read-more-robert-mitchell",
+      "imageSrc": "/assets/images/team/people-1.jpg",
+      "flexDirection": false
+    },
+    {
+      "subheading": "Network Administrator",
+      "heading": "Lucas Perez",
+      "id": "it-department",
+      "paragraph": "Lucas Perez is a Network Administrator ensuring network reliability.",
+      "seeMoreLink": "/read-more-lucas-perez",
+      "imageSrc": "/assets/images/team/people-2.jpg",
+      "flexDirection": true
+    },
+    {
+      "subheading": "System Administrator",
+      "heading": "Olivia Moore",
+      "id": "it-department",
+      "paragraph": "Olivia Moore is a System Administrator with experience in managing servers and IT systems.",
+      "seeMoreLink": "/read-more-olivia-moore",
+      "imageSrc": "/assets/images/team/people-3.jpg",
+      "flexDirection": false
+    }
+  ]
+}
